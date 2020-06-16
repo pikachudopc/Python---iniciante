@@ -1,0 +1,4 @@
+#operadores relacionais
+
+#igualdade(=): ==
+#
