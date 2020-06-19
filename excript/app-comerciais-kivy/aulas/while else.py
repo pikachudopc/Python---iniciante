@@ -6,3 +6,4 @@ while (x<10):
 else:
     print("Else")
 print('fim')
+
